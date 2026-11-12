@@ -1,1 +1,26 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.mohamed101ezatdev.fawateer","sha256_cert_fingerprints":["49:9D:51:E3:5E:29:2C:29:06:5D:7A:82:1B:EC:5E:35:87:4A:C3:F5:E7:10:44:60:EA:DD:5C:18:DA:58:5A:E0"]}}]
+[
+    {
+        "relation":  [
+                         "delegate_permission/common.handle_all_urls"
+                     ],
+        "target":  {
+                       "namespace":  "android_app",
+                       "package_name":  "io.github.mohamed101ezatdev.fawateer",
+                       "sha256_cert_fingerprints":  [
+                                                        "49:9D:51:E3:5E:29:2C:29:06:5D:7A:82:1B:EC:5E:35:87:4A:C3:F5:E7:10:44:60:EA:DD:5C:18:DA:58:5A:E0"
+                                                    ]
+                   }
+    },
+    {
+        "relation":  [
+                         "delegate_permission/common.handle_all_urls"
+                     ],
+        "target":  {
+                       "namespace":  "android_app",
+                       "package_name":  "io.github.mohamed101ezatdev.test101",
+                       "sha256_cert_fingerprints":  [
+                                                        "FF:1E:83:B8:FE:BF:69:81:F4:96:AC:D5:B2:A0:22:7A:4D:F2:7D:EB:DE:E3:C5:67:FB:84:E6:E6:5A:3E:5D:CB"
+                                                    ]
+                   }
+    }
+]
